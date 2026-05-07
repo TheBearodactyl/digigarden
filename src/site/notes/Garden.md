@@ -3,4 +3,4 @@
 ---
 
 # Lists
-- [[Shows to watch\|Shows to watch]]
+- [[Lists/Shows to watch\|Shows to watch]]
