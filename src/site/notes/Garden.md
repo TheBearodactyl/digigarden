@@ -10,7 +10,6 @@
 
 ## Plans
 - [[PC Plans\|PC Plans]]
-
 ## Cool shit
 - ### Coding:
     - [[cool stuff for coding/Go/better error handling\|better error handling]]
