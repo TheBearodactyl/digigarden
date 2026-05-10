@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cool-stuff-for-coding/go/better-error-handling/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cool-stuff-for-coding/go/better-error-handling/","noteIcon":"","created":"2026-05-08T19:34:20.713-05:00","updated":"2026-05-08T19:43:46.787-05:00","dg-note-properties":{}}
 ---
 
 this simply makes go error handling less carpal tunnely
